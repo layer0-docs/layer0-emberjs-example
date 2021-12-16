@@ -17,7 +17,7 @@
     "start": "ember serve",
     "test": "npm-run-all lint test:*",
     "test:ember": "ember test",
-    "deploy": "layer0 deploy",
+    "layer0:deploy": "layer0 deploy",
     "format": "prettier --write '**/*' --ignore-unknown"
   },
   "devDependencies": {
