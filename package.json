@@ -25,7 +25,7 @@
     "@ember/test-helpers": "^2.4.2",
     "@glimmer/component": "^1.0.4",
     "@glimmer/tracking": "^1.0.4",
-    "@layer0/cli": "^4.13.9",
+    "@layer0/cli": "^4.15.6",
     "@layer0/core": "^4.13.9",
     "@layer0/devtools": "^4.13.9",
     "@layer0/prefetch": "^4.13.9",
